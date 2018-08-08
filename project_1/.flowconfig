@@ -1,0 +1,2 @@
+[options]
+module.name_mapper='^core\/\(.*\)$' -> '<PROJECT_ROOT>/../common/core/\1'
